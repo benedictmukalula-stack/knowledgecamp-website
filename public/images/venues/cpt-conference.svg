@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Cape Town Premium Conference Centre</title>
+  <desc id="desc">Stylised illustration of a premium conference centre in Cape Town.</desc>
+  <rect width="600" height="360" fill="#020617" />
+  <g fill="#0f172a">
+    <rect x="60" y="120" width="120" height="180" />
+    <rect x="200" y="90" width="120" height="210" />
+    <rect x="340" y="110" width="120" height="190" />
+    <rect x="480" y="140" width="60" height="160" />
+  </g>
+  <rect x="90" y="150" width="360" height="80" rx="12" fill="#111827" />
+  <rect x="110" y="168" width="200" height="10" rx="5" fill="#e5e7eb" />
+  <rect x="110" y="186" width="160" height="8" rx="4" fill="#9ca3af" />
+</svg>

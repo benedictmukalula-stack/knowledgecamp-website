@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Lagos Conference Hub</title>
+  <desc id="desc">Stylised illustration of a Lagos conference hub.</desc>
+  <rect width="600" height="360" fill="#020617" />
+  <rect x="70" y="130" width="460" height="170" rx="18" fill="#0f172a" />
+  <rect x="100" y="160" width="260" height="70" rx="12" fill="#111827" />
+  <rect x="120" y="180" width="200" height="10" rx="5" fill="#e5e7eb" />
+  <rect x="120" y="198" width="160" height="8" rx="4" fill="#9ca3af" />
+</svg>

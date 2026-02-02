@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nairobi Business Training Hub</title>
+  <desc id="desc">Stylised illustration of a Nairobi training hub.</desc>
+  <rect width="600" height="360" fill="#0b1120" />
+  <g fill="#020617">
+    <rect x="80" y="120" width="80" height="180" />
+    <rect x="190" y="100" width="80" height="200" />
+    <rect x="300" y="130" width="80" height="170" />
+    <rect x="410" y="110" width="80" height="190" />
+  </g>
+  <rect x="110" y="210" width="320" height="80" rx="14" fill="#111827" />
+  <rect x="130" y="230" width="220" height="10" rx="5" fill="#e5e7eb" />
+  <rect x="130" y="248" width="180" height="8" rx="4" fill="#9ca3af" />
+</svg>

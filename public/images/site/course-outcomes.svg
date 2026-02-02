@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="outcomes1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef08a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fcd34d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#outcomes1)"/>
+  
+  <!-- Boardroom presentation -->
+  <rect x="200" y="150" width="1520" height="700" fill="rgba(200, 200, 200, 0.1)" stroke="rgba(100, 100, 100, 0.2)" stroke-width="2" rx="15"/>
+  
+  <!-- Presentation screen showing growth chart -->
+  <rect x="600" y="200" width="720" height="500" fill="rgba(100, 180, 100, 0.15)" stroke="rgba(70, 150, 70, 0.2)" stroke-width="2" rx="10"/>
+  
+  <!-- Growth chart bars (abstract) -->
+  <rect x="750" y="500" width="60" height="120" fill="rgba(100, 200, 100, 0.3)"/>
+  <rect x="850" y="450" width="60" height="170" fill="rgba(120, 220, 120, 0.3)"/>
+  <rect x="950" y="350" width="60" height="270" fill="rgba(140, 240, 140, 0.3)"/>
+  
+  <!-- Professional presenter -->
+  <circle cx="1450" cy="350" r="50" fill="rgba(100, 120, 180, 0.3)" stroke="rgba(70, 90, 150, 0.4)" stroke-width="2"/>
+  <rect x="1420" y="400" width="60" height="120" fill="rgba(100, 120, 180, 0.2)"/>
+  
+  <!-- Pointing gesture -->
+  <line x1="1480" y1="410" x2="1050" y2="350" stroke="rgba(100, 100, 100, 0.3)" stroke-width="3" stroke-dasharray="5,5"/>
+  
+  <!-- Executives watching (impressed) -->
+  <circle cx="350" cy="500" r="45" fill="rgba(150, 100, 120, 0.3)" stroke="rgba(120, 70, 90, 0.4)" stroke-width="2"/>
+  <circle cx="700" cy="550" r="45" fill="rgba(100, 140, 160, 0.3)" stroke="rgba(70, 110, 130, 0.4)" stroke-width="2"/>
+  
+  <!-- Success checkmarks (abstract) -->
+  <path d="M 250 250 L 320 320 L 380 240" stroke="rgba(100, 200, 100, 0.4)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 1600 250 L 1670 320 L 1730 240" stroke="rgba(100, 200, 100, 0.4)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Title -->
+  <text x="960" y="900" font-size="56" fill="rgba(120, 100, 0, 0.7)" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Measurable Results</text>
+  <text x="960" y="970" font-size="28" fill="rgba(140, 120, 20, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">Professional Growth & Achievement</text>
+</svg>

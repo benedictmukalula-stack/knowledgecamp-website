@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dubai Premium Training Venue</title>
+  <desc id="desc">Stylised illustration of a premium Dubai training venue.</desc>
+  <rect width="600" height="360" fill="#020617" />
+  <g fill="#0f172a">
+    <rect x="80" y="80" width="70" height="220" />
+    <rect x="170" y="100" width="70" height="200" />
+    <rect x="260" y="60" width="70" height="240" />
+    <rect x="350" y="110" width="70" height="190" />
+    <rect x="440" y="90" width="60" height="210" />
+  </g>
+  <rect x="120" y="210" width="320" height="80" rx="14" fill="#111827" />
+  <rect x="140" y="230" width="220" height="10" rx="5" fill="#e5e7eb" />
+  <rect x="140" y="248" width="180" height="8" rx="4" fill="#9ca3af" />
+</svg>

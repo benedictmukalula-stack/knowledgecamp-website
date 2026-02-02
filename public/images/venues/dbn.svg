@@ -1,0 +1,33 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dbn-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a7f3d0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6ee7b7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#dbn-grad)"/>
+  
+  <!-- Coastal venue with ocean view -->
+  <rect x="100" y="80" width="600" height="380" fill="rgba(100, 200, 200, 0.15)" stroke="rgba(80, 170, 180, 0.25)" stroke-width="2" rx="10"/>
+  
+  <!-- Large windows overlooking ocean -->
+  <rect x="130" y="110" width="180" height="150" fill="rgba(100, 200, 255, 0.2)" stroke="rgba(80, 170, 230, 0.3)" stroke-width="2" rx="5"/>
+  <text x="220" y="195" font-size="16" fill="rgba(80, 170, 230, 0.4)" text-anchor="middle" font-family="Arial, sans-serif">Sea View</text>
+  
+  <rect x="360" y="110" width="180" height="150" fill="rgba(100, 200, 255, 0.2)" stroke="rgba(80, 170, 230, 0.3)" stroke-width="2" rx="5"/>
+  <rect x="590" y="110" width="80" height="150" fill="rgba(100, 200, 255, 0.2)" stroke="rgba(80, 170, 230, 0.3)" stroke-width="2" rx="5"/>
+  
+  <!-- Conference tables -->
+  <rect x="160" y="290" width="140" height="100" fill="rgba(200, 150, 100, 0.15)" rx="5"/>
+  <rect x="330" y="290" width="140" height="100" fill="rgba(200, 150, 100, 0.15)" rx="5"/>
+  <rect x="500" y="290" width="140" height="100" fill="rgba(200, 150, 100, 0.15)" rx="5"/>
+  
+  <!-- AV support icon -->
+  <circle cx="700" cy="200" r="30" fill="rgba(100, 100, 200, 0.15)" stroke="rgba(80, 80, 180, 0.25)" stroke-width="2"/>
+  <text x="700" y="215" font-size="18" fill="rgba(80, 80, 180, 0.4)" text-anchor="middle" font-family="Arial, sans-serif">🎥</text>
+  
+  <!-- Title -->
+  <text x="400" y="480" font-size="28" fill="rgba(20, 130, 120, 0.8)" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Durban</text>
+  <text x="400" y="515" font-size="14" fill="rgba(80, 150, 140, 0.6)" text-anchor="middle" font-family="Arial, sans-serif">Umhlanga</text>
+  <text x="400" y="540" font-size="12" fill="rgba(100, 100, 100, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">Conference Venue • Sea-Facing</text>
+</svg>

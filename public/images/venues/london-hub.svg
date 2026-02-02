@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">London Corporate Training Centre</title>
+  <desc id="desc">Stylised illustration of a London corporate training centre.</desc>
+  <rect width="600" height="360" fill="#020617" />
+  <g fill="#0f172a">
+    <rect x="70" y="120" width="90" height="180" />
+    <rect x="190" y="100" width="90" height="200" />
+    <rect x="310" y="130" width="90" height="170" />
+    <rect x="430" y="110" width="80" height="190" />
+  </g>
+  <rect x="110" y="210" width="320" height="80" rx="14" fill="#111827" />
+  <rect x="130" y="230" width="220" height="10" rx="5" fill="#e5e7eb" />
+  <rect x="130" y="248" width="180" height="8" rx="4" fill="#9ca3af" />
+</svg>

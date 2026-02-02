@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Durban Umhlanga Conference Venue</title>
+  <desc id="desc">Stylised illustration of a sea-facing conference venue in Durban.</desc>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0ea5e9" />
+      <stop offset="1" stop-color="#0369a1" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="200" fill="url(#sea)" />
+  <rect y="200" width="600" height="160" fill="#0b1120" />
+  <rect x="80" y="180" width="440" height="140" rx="18" fill="#020617" />
+  <rect x="110" y="210" width="230" height="60" rx="10" fill="#111827" />
+  <rect x="130" y="228" width="180" height="10" rx="5" fill="#e5e7eb" />
+  <rect x="130" y="246" width="140" height="8" rx="4" fill="#9ca3af" />
+</svg>

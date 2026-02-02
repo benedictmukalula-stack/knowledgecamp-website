@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">About Knowledge Camp Global</title>
+  <desc id="desc">Facilitator leading a group of professional learners in a modern training room.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9fafb" />
+      <stop offset="1" stop-color="#e5e7eb" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bg)" />
+  <rect x="80" y="80" width="1040" height="240" rx="24" fill="#ffffff" stroke="#e5e7eb" />
+  <rect x="120" y="120" width="260" height="18" rx="9" fill="#0f172a" opacity="0.9" />
+  <rect x="120" y="152" width="200" height="10" rx="5" fill="#6b7280" />
+  <rect x="120" y="172" width="220" height="10" rx="5" fill="#9ca3af" />
+  <g transform="translate(440,120)">
+    <circle cx="60" cy="60" r="34" fill="#38bdf8" />
+    <rect x="24" y="104" width="72" height="10" rx="5" fill="#0f172a" />
+    <rect x="16" y="122" width="88" height="8" rx="4" fill="#6b7280" />
+  </g>
+  <g transform="translate(640,140)">
+    <circle cx="40" cy="40" r="26" fill="#6366f1" />
+    <circle cx="130" cy="40" r="26" fill="#22c55e" />
+    <circle cx="220" cy="40" r="26" fill="#f97316" />
+    <rect x="10" y="88" width="220" height="8" rx="4" fill="#e5e7eb" />
+    <rect x="10" y="104" width="180" height="8" rx="4" fill="#d1d5db" />
+  </g>
+</svg>

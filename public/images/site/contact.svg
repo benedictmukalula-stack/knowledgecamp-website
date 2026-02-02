@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="office1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f1f5f9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#cbd5e1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#office1)"/>
+  
+  <!-- Modern office building with large windows -->
+  <rect x="100" y="100" width="1720" height="800" fill="rgba(220, 220, 220, 0.2)" stroke="rgba(100, 100, 100, 0.2)" stroke-width="2" rx="20"/>
+  
+  <!-- Large windows with city view (abstract) -->
+  <rect x="150" y="150" width="700" height="500" fill="rgba(100, 200, 255, 0.15)" stroke="rgba(80, 150, 200, 0.2)" stroke-width="2" rx="10"/>
+  <text x="500" y="420" font-size="40" fill="rgba(80, 150, 200, 0.3)" text-anchor="middle" font-family="Arial, sans-serif">City View</text>
+  
+  <rect x="1070" y="150" width="700" height="500" fill="rgba(100, 200, 255, 0.15)" stroke="rgba(80, 150, 200, 0.2)" stroke-width="2" rx="10"/>
+  <text x="1420" y="420" font-size="40" fill="rgba(80, 150, 200, 0.3)" text-anchor="middle" font-family="Arial, sans-serif">Skyline</text>
+  
+  <!-- Reception desk -->
+  <rect x="700" y="600" width="520" height="200" fill="rgba(150, 100, 80, 0.15)" stroke="rgba(120, 70, 50, 0.2)" stroke-width="2" rx="10"/>
+  
+  <!-- Reception counter -->
+  <line x1="720" y1="650" x2="1200" y2="650" stroke="rgba(100, 100, 100, 0.3)" stroke-width="3"/>
+  
+  <!-- Reception person (abstract) -->
+  <circle cx="850" cy="580" r="35" fill="rgba(120, 100, 120, 0.3)" stroke="rgba(90, 70, 90, 0.4)" stroke-width="2"/>
+  <rect x="825" y="615" width="50" height="80" fill="rgba(120, 100, 120, 0.2)"/>
+  
+  <!-- Visitor approaching -->
+  <circle cx="400" cy="650" r="35" fill="rgba(100, 120, 160, 0.3)" stroke="rgba(70, 90, 130, 0.4)" stroke-width="2"/>
+  <rect x="375" y="685" width="50" height="80" fill="rgba(100, 120, 160, 0.2)"/>
+  
+  <!-- Plants/greenery -->
+  <ellipse cx="200" cy="700" rx="50" ry="80" fill="rgba(100, 150, 100, 0.2)"/>
+  <ellipse cx="1700" cy="700" rx="50" ry="80" fill="rgba(100, 150, 100, 0.2)"/>
+  
+  <!-- Title -->
+  <text x="960" y="180" font-size="56" fill="rgba(50, 50, 50, 0.7)" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Get In Touch</text>
+  <text x="960" y="250" font-size="32" fill="rgba(100, 100, 100, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">Visit Our Modern Headquarters</text>
+  
+  <!-- Contact info -->
+  <text x="960" y="1000" font-size="24" fill="rgba(80, 80, 80, 0.6)" text-anchor="middle" font-family="Arial, sans-serif">Professional, Welcoming, Accessible</text>
+</svg>

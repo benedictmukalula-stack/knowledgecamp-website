@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pta-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fecaca;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fca5a5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#pta-grad)"/>
+  
+  <!-- Business park training building -->
+  <rect x="100" y="80" width="600" height="380" fill="rgba(200, 150, 150, 0.15)" stroke="rgba(150, 100, 100, 0.25)" stroke-width="2" rx="10"/>
+  
+  <!-- Training suite layout -->
+  <rect x="140" y="130" width="130" height="110" fill="rgba(150, 150, 200, 0.15)" stroke="rgba(120, 120, 170, 0.25)" stroke-width="1" rx="5"/>
+  <rect x="300" y="130" width="130" height="110" fill="rgba(150, 150, 200, 0.15)" stroke="rgba(120, 120, 170, 0.25)" stroke-width="1" rx="5"/>
+  <rect x="460" y="130" width="130" height="110" fill="rgba(150, 150, 200, 0.15)" stroke="rgba(120, 120, 170, 0.25)" stroke-width="1" rx="5"/>
+  
+  <!-- Breakout space -->
+  <rect x="200" y="280" width="400" height="120" fill="rgba(100, 200, 100, 0.1)" stroke="rgba(80, 160, 80, 0.2)" stroke-width="1" rx="5"/>
+  <text x="400" y="340" font-size="12" fill="rgba(60, 140, 60, 0.4)" text-anchor="middle" font-family="Arial, sans-serif">Breakout Space</text>
+  
+  <!-- Title -->
+  <text x="400" y="480" font-size="28" fill="rgba(100, 50, 50, 0.8)" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Pretoria</text>
+  <text x="400" y="515" font-size="14" fill="rgba(120, 70, 70, 0.6)" text-anchor="middle" font-family="Arial, sans-serif">Menlyn • Hatfield</text>
+  <text x="400" y="540" font-size="12" fill="rgba(100, 100, 100, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">Training Suite</text>
+</svg>

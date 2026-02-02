@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="africa-hub" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fed7aa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fdba74;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#africa-hub)"/>
+  
+  <!-- Modern African training centre (pan-African design) -->
+  <rect x="200" y="150" width="1520" height="700" fill="rgba(200, 150, 100, 0.12)" stroke="rgba(150, 100, 50, 0.2)" stroke-width="2" rx="20"/>
+  
+  <!-- Contemporary African architecture elements -->
+  <polygon points="250,200 550,200 550,600 250,600" fill="rgba(180, 120, 80, 0.15)" stroke="rgba(150, 90, 50, 0.2)" stroke-width="2"/>
+  
+  <!-- Window to African cityscape -->
+  <rect x="280" y="250" width="450" height="350" fill="rgba(200, 180, 150, 0.2)" stroke="rgba(180, 150, 120, 0.25)" stroke-width="2" rx="10"/>
+  <text x="505" y="450" font-size="28" fill="rgba(150, 120, 90, 0.3)" text-anchor="middle" font-family="Arial, sans-serif">Lagos • Nairobi • Accra</text>
+  
+  <!-- Pan-African training setup -->
+  <rect x="850" y="250" width="850" height="450" fill="rgba(180, 150, 120, 0.1)" stroke="rgba(150, 120, 90, 0.15)" stroke-width="2" rx="15"/>
+  
+  <!-- Diverse African professionals (multiple nationalities) -->
+  <circle cx="950" cy="200" r="40" fill="rgba(150, 100, 100, 0.35)" stroke="rgba(120, 70, 70, 0.4)" stroke-width="2"/>
+  <text x="950" y="215" font-size="14" fill="rgba(120, 70, 70, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">Nigeria</text>
+  
+  <circle cx="1250" cy="180" r="40" fill="rgba(120, 140, 100, 0.35)" stroke="rgba(90, 110, 70, 0.4)" stroke-width="2"/>
+  <text x="1250" y="195" font-size="14" fill="rgba(90, 110, 70, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">Kenya</text>
+  
+  <circle cx="1550" cy="200" r="40" fill="rgba(140, 110, 120, 0.35)" stroke="rgba(110, 80, 90, 0.4)" stroke-width="2"/>
+  <text x="1550" y="215" font-size="14" fill="rgba(110, 80, 90, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">Ghana</text>
+  
+  <!-- Training tables -->
+  <rect x="950" y="320" width="350" height="180" fill="rgba(200, 150, 100, 0.2)" rx="10"/>
+  <rect x="1400" y="320" width="280" height="180" fill="rgba(200, 150, 100, 0.2)" rx="10"/>
+  
+  <!-- Title -->
+  <text x="960" y="900" font-size="56" fill="rgba(180, 100, 30, 0.8)" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">Africa Hub</text>
+  <text x="960" y="970" font-size="28" fill="rgba(180, 120, 50, 0.6)" text-anchor="middle" font-family="Arial, sans-serif">Pan-African Professional Development</text>
+</svg>

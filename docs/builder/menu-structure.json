@@ -1,0 +1,140 @@
+{
+  "header": {
+    "left": [
+      {
+        "label": "Courses",
+        "type": "dropdown",
+        "items": [
+          { "label": "Browse All Courses", "href": "/courses" },
+          {
+            "label": "Categories (A–M)",
+            "type": "group",
+            "items": [
+              { "label": "Accounting and Finance", "href": "/courses?category=Accounting%20and%20Finance" },
+              { "label": "Administration and Office Management", "href": "/courses?category=Administration%20and%20Office%20Management" },
+              { "label": "Artificial Intelligence (AI) and Automation", "href": "/courses?category=Artificial%20Intelligence%20(AI)%20and%20Automation" },
+              { "label": "Auditing and Assurance", "href": "/courses?category=Auditing%20and%20Assurance" },
+              { "label": "Banking, Insurance and Financial Services", "href": "/courses?category=Banking%2C%20Insurance%20and%20Financial%20Services" },
+              { "label": "Business Continuity and Crisis Management", "href": "/courses?category=Business%20Continuity%20and%20Crisis%20Management" },
+              { "label": "Communication and Business Writing Skills", "href": "/courses?category=Communication%20and%20Business%20Writing%20Skills" },
+              { "label": "Construction Management", "href": "/courses?category=Construction%20Management" },
+              { "label": "Contracts and Commercial Management", "href": "/courses?category=Contracts%20and%20Commercial%20Management" },
+              { "label": "Corporate Governance, Risk and Compliance (GRC)", "href": "/courses?category=Corporate%20Governance%2C%20Risk%20and%20Compliance%20(GRC)" },
+              { "label": "Customer Service and Experience Management", "href": "/courses?category=Customer%20Service%20and%20Experience%20Management" },
+              { "label": "Data Management, Analytics and Business Intelligence", "href": "/courses?category=Data%20Management%2C%20Analytics%20and%20Business%20Intelligence" },
+              { "label": "Digital Transformation and Innovation", "href": "/courses?category=Digital%20Transformation%20and%20Innovation" },
+              { "label": "Energy, Power and Utilities Management", "href": "/courses?category=Energy%2C%20Power%20and%20Utilities%20Management" },
+              { "label": "Financial Technology (FinTech)", "href": "/courses?category=Financial%20Technology%20(FinTech)" },
+              { "label": "Government and Public Sector Management", "href": "/courses?category=Government%20and%20Public%20Sector%20Management" },
+              { "label": "Health, Safety, Security and Environment (HSSE / HSE)", "href": "/courses?category=Health%2C%20Safety%2C%20Security%20and%20Environment%20(HSSE%20%2F%20HSE)" },
+              { "label": "Human Resources and Training & Development", "href": "/courses?category=Human%20Resources%20and%20Training%20%26%20Development" }
+            ]
+          },
+          {
+            "label": "Categories (N–Z)",
+            "type": "group",
+            "items": [
+              { "label": "Interpersonal Skills and Personal Development", "href": "/courses?category=Interpersonal%20Skills%20and%20Personal%20Development" },
+              { "label": "IT Management, Cloud Computing and Cybersecurity", "href": "/courses?category=IT%20Management%2C%20Cloud%20Computing%20and%20Cybersecurity" },
+              { "label": "Leadership, Strategy and Executive Management", "href": "/courses?category=Leadership%2C%20Strategy%20and%20Executive%20Management" },
+              { "label": "Legal, Compliance and Regulatory Affairs", "href": "/courses?category=Legal%2C%20Compliance%20and%20Regulatory%20Affairs" },
+              { "label": "Maintenance, Engineering and Asset Management", "href": "/courses?category=Maintenance%2C%20Engineering%20and%20Asset%20Management" },
+              { "label": "Marketing, Sales and Brand Management", "href": "/courses?category=Marketing%2C%20Sales%20and%20Brand%20Management" },
+              { "label": "Maritime, Ports and Logistics Management", "href": "/courses?category=Maritime%2C%20Ports%20and%20Logistics%20Management" },
+              { "label": "Oil, Gas and Petroleum Management", "href": "/courses?category=Oil%2C%20Gas%20and%20Petroleum%20Management" },
+              { "label": "Planning, Monitoring and Strategy Execution", "href": "/courses?category=Planning%2C%20Monitoring%20and%20Strategy%20Execution" },
+              { "label": "Procurement and Supply Chain Management", "href": "/courses?category=Procurement%20and%20Supply%20Chain%20Management" },
+              { "label": "Project, Programme and Portfolio Management (PPM)", "href": "/courses?category=Project%2C%20Programme%20and%20Portfolio%20Management%20(PPM)" },
+              { "label": "Public Relations, Media and Corporate Communications", "href": "/courses?category=Public%20Relations%2C%20Media%20and%20Corporate%20Communications" },
+              { "label": "Quality Management, Productivity and Operational Excellence", "href": "/courses?category=Quality%20Management%2C%20Productivity%20and%20Operational%20Excellence" },
+              { "label": "Risk Management and Internal Controls", "href": "/courses?category=Risk%20Management%20and%20Internal%20Controls" },
+              { "label": "Security Management and Intelligence Studies", "href": "/courses?category=Security%20Management%20and%20Intelligence%20Studies" },
+              { "label": "Sustainability, ESG and Climate Risk Management", "href": "/courses?category=Sustainability%2C%20ESG%20and%20Climate%20Risk%20Management" },
+              { "label": "Tourism, Hospitality and Events Management", "href": "/courses?category=Tourism%2C%20Hospitality%20and%20Events%20Management" },
+              { "label": "Transport, Aviation and Logistics", "href": "/courses?category=Transport%2C%20Aviation%20and%20Logistics" },
+              { "label": "Entrepreneurship, SMEs and Business Development", "href": "/courses?category=Entrepreneurship%2C%20SMEs%20and%20Business%20Development" }
+            ]
+          },
+          { "label": "Online Courses", "href": "/online-hybrid?mode=online" },
+          { "label": "Popular Courses", "href": "/courses?sort=popular" },
+          { "label": "New Courses", "href": "/courses?sort=new" }
+        ]
+      },
+      { "label": "Calendar", "href": "/calendar" },
+      {
+        "label": "Pricing",
+        "type": "dropdown",
+        "items": [
+          { "label": "Pricing Overview", "href": "/pricing" },
+          { "label": "Delegate Pricing (3 / 5 / 10)", "href": "/pricing?section=delegates" },
+          { "label": "Early Bird Discounts", "href": "/pricing?section=early-bird" },
+          { "label": "Group Discounts", "href": "/pricing?section=group" },
+          { "label": "Laptop Discount Policy", "href": "/pricing?section=laptop" },
+          { "label": "VIP Pricing", "href": "/pricing?section=vip" },
+          { "label": "Hub Pricing (South Africa / Africa / International)", "href": "/pricing?section=hub" },
+          { "label": "Online vs In-person Pricing", "href": "/pricing?section=delivery" },
+          { "label": "Request Custom Quote", "href": "/register-enterprise" }
+        ]
+      },
+      {
+        "label": "Delivery",
+        "type": "dropdown",
+        "items": [
+          { "label": "Public Classroom Training", "href": "/calendar" },
+          { "label": "Online Live Training", "href": "/online-hybrid?mode=online" },
+          { "label": "Hybrid Training", "href": "/online-hybrid?mode=hybrid" },
+          { "label": "In-House Training", "href": "/in-house" },
+          { "label": "International Training", "href": "/hubs/international" },
+          { "label": "Training Venues & Cities", "href": "/venues" },
+          { "label": "2026 Training Calendar", "href": "/calendar?year=2026" }
+        ]
+      },
+      {
+        "label": "Partnerships",
+        "type": "dropdown",
+        "items": [
+          { "label": "Partner With Us", "href": "/partnerships" },
+          { "label": "Become a Training Partner", "href": "/partnerships?type=training" },
+          { "label": "Venue Partners", "href": "/venues?partner=1" },
+          { "label": "Corporate Sponsors", "href": "/sponsors" },
+          { "label": "Academic & Institutional Partners", "href": "/partnerships?type=academic" },
+          { "label": "Technology Partners", "href": "/partnerships?type=technology" }
+        ]
+      },
+      {
+        "label": "About",
+        "type": "dropdown",
+        "items": [
+          { "label": "About Knowledge Camp Global", "href": "/about" },
+          { "label": "Our Methodology", "href": "/about#methodology" },
+          { "label": "Trainers & Faculty", "href": "/about#trainers" },
+          { "label": "Quality & Standards", "href": "/about#quality" },
+          { "label": "Clients & Sectors", "href": "/about#clients" },
+          { "label": "Certifications & CPDs", "href": "/about#certifications" },
+          { "label": "Careers", "href": "/about#careers" }
+        ]
+      },
+      {
+        "label": "Contact",
+        "type": "dropdown",
+        "items": [
+          { "label": "Contact Us", "href": "/contact" },
+          { "label": "Request a Call Back", "href": "/contact?callback=1" },
+          { "label": "WhatsApp Us", "href": "https://wa.me/27833910863" },
+          { "label": "Office Details", "href": "/contact#office" }
+        ]
+      }
+    ],
+    "right": {
+      "primary": { "label": "Register Now", "href": "/register" },
+      "whatsapp": { "href": "https://wa.me/27833910863" },
+      "login": { "label": "Login", "href": "/dashboard" }
+    }
+  },
+  "footerCtas": [
+    { "label": "Register", "href": "/register" },
+    { "label": "Request In-House Quote", "href": "/register-enterprise" },
+    { "label": "Partner With Us", "href": "/partnerships" },
+    { "label": "Download Brochure", "href": "/contact?topic=brochure" }
+  ]
+}

@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="intl-hub" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e9d5ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d8b4fe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#intl-hub)"/>
+  
+  <!-- Premium international training venue -->
+  <rect x="200" y="150" width="1520" height="700" fill="rgba(150, 100, 180, 0.12)" stroke="rgba(120, 70, 150, 0.2)" stroke-width="2" rx="20"/>
+  
+  <!-- High-end architecture with glass and steel -->
+  <rect x="250" y="200" width="550" height="500" fill="rgba(100, 150, 200, 0.2)" stroke="rgba(80, 120, 180, 0.25)" stroke-width="2" rx="15"/>
+  <text x="525" y="480" font-size="24" fill="rgba(80, 120, 180, 0.35)" text-anchor="middle" font-family="Arial, sans-serif">London • Dubai • Singapore</text>
+  
+  <!-- Premium training suite -->
+  <rect x="900" y="200" width="800" height="500" fill="rgba(200, 150, 150, 0.1)" stroke="rgba(170, 120, 120, 0.15)" stroke-width="2" rx="15"/>
+  
+  <!-- International professionals (diverse global) -->
+  <circle cx="1000" cy="160" r="45" fill="rgba(100, 120, 180, 0.35)" stroke="rgba(70, 90, 150, 0.4)" stroke-width="2"/>
+  <text x="1000" y="175" font-size="12" fill="rgba(70, 90, 150, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">UK</text>
+  
+  <circle cx="1350" cy="140" r="45" fill="rgba(150, 130, 100, 0.35)" stroke="rgba(120, 100, 70, 0.4)" stroke-width="2"/>
+  <text x="1350" y="155" font-size="12" fill="rgba(120, 100, 70, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">USA</text>
+  
+  <circle cx="1700" cy="160" r="45" fill="rgba(120, 150, 140, 0.35)" stroke="rgba(90, 120, 110, 0.4)" stroke-width="2"/>
+  <text x="1700" y="175" font-size="12" fill="rgba(90, 120, 110, 0.5)" text-anchor="middle" font-family="Arial, sans-serif">SG</text>
+  
+  <!-- Premium training setup -->
+  <rect x="950" y="280" width="350" height="200" fill="rgba(150, 120, 150, 0.2)" stroke="rgba(120, 90, 120, 0.2)" stroke-width="1" rx="10"/>
+  <rect x="1380" y="280" width="280" height="200" fill="rgba(150, 120, 150, 0.2)" stroke="rgba(120, 90, 120, 0.2)" stroke-width="1" rx="10"/>
+  
+  <!-- High-end laptops -->
+  <rect x="980" y="380" width="100" height="70" fill="rgba(80, 80, 80, 0.3)"/>
+  <rect x="1410" y="380" width="100" height="70" fill="rgba(80, 80, 80, 0.3)"/>
+  
+  <!-- Global network indicator -->
+  <circle cx="1600" cy="550" r="50" fill="rgba(100, 180, 200, 0.15)" stroke="rgba(80, 160, 180, 0.2)" stroke-width="2"/>
+  <text x="1600" y="565" font-size="28" fill="rgba(80, 160, 180, 0.4)" text-anchor="middle" font-family="Arial, sans-serif">🌐</text>
+  
+  <!-- Title -->
+  <text x="960" y="900" font-size="56" fill="rgba(100, 50, 130, 0.8)" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">International Hub</text>
+  <text x="960" y="970" font-size="28" fill="rgba(120, 70, 150, 0.6)" text-anchor="middle" font-family="Arial, sans-serif">Global Standard Professional Training</text>
+</svg>

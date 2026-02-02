@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Knowledge Camp Offices</title>
+  <desc id="desc">Stylised skyline representing modern office locations.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#1f2937" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#sky)" />
+  <g fill="#020617">
+    <rect x="80" y="140" width="140" height="180" />
+    <rect x="260" y="110" width="120" height="210" />
+    <rect x="420" y="130" width="100" height="190" />
+    <rect x="560" y="90" width="160" height="230" />
+    <rect x="760" y="130" width="110" height="190" />
+    <rect x="920" y="150" width="130" height="170" />
+  </g>
+  <g stroke="#1f2933" stroke-width="2">
+    <line x1="0" y1="320" x2="1200" y2="320" stroke="#111827" />
+  </g>
+  <text x="80" y="80" fill="#e5e7eb" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="600">
+    Knowledge Camp Global
+  </text>
+  <text x="80" y="110" fill="#9ca3af" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16">
+    Offices and training hubs across South Africa, Africa and internationally
+  </text>
+</svg>
